@@ -60,9 +60,10 @@ Funcionalidades avançadas:
 
 Resultado Final no Lovable: https://clear-cash-conversations.lovable.app
 
-<img width="1305" height="831" alt="image" src="https://github.com/user-attachments/assets/69627692-fbe7-4c44-bbfc-7fed64fc3ee3" />
+<img width="973" height="796" alt="image" src="https://github.com/user-attachments/assets/1a24aede-1bb6-4dbb-bdbd-89d23750f1e6" />
 
-<img width="1309" height="780" alt="image" src="https://github.com/user-attachments/assets/84e5af1b-0b2d-41b8-b5fc-61643cf99ac8" />
+
+<img width="729" height="759" alt="image" src="https://github.com/user-attachments/assets/1cd45303-811e-426f-a882-f4b6c6001bd7" />
 
 
 # FinChat – Suas Finanças em Dia
