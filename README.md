@@ -1,8 +1,8 @@
 # 💸 Sistema Inteligente de Gestão de Finanças Pessoais com Vibe Coding
 
-Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
+Este projeto teve como objetivo criar um **aplicativo de gestão de finanças pessoais** utilizando o conceito de Vibe Coding. A ideia foi transformar um PRD (Product Requirements Document) em um app funcional no **Lovable**, explorando a interação com IA para estruturar requisitos, organizar fases de desenvolvimento e funcionalidades do app. O resultado é o **FinChat**, um sistema conversacional e acessível que ajuda a organizar gastos, definir metas e acompanhar investimentos de forma prática e segura.
 
-PRD revisado e incrementado no Copilot Web:
+## 📌 PRD Revisado e Incrementado no Copilot Web
 
 ```markdown
 # PRD Simplificado – Aplicativo de Organização Financeira Conversacional com Roadmap em Fases
@@ -52,7 +52,7 @@ Funcionalidades avançadas:
 - Autenticação clara e simples: processo de cadastro e login amigável, com email e senha, garantindo segurança e privacidade.
 ```
 
-Interações com o Lovable:
+🚀 Interações com o Lovable
 
 1) Criação de um app de gestão de finanças com base no PRD.
 2) Habilatação de funcionalidade de criação de metas financeiras.
@@ -114,14 +114,6 @@ Interface clara, com contraste adequado e acessibilidade para diferentes perfis 
 
 O **FinChat** evolui de um simples organizador de gastos para um gestor financeiro completo.  
 Combina simplicidade conversacional com relatórios visuais e controle de investimentos, oferecendo uma solução acessível, prática e segura para manter as finanças em dia.
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
-
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
 ## 💬 Reflexão
 
